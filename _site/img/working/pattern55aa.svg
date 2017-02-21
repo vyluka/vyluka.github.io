@@ -1,0 +1,550 @@
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="170" width="1.6e3" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs278">
+  <clipPath id="clipPath4410" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4412" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4414" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4416" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4418" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4420" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4422" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4424" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4426" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4428" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4430" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4432" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4434" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4436" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4438" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4440" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4462" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4464" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4466" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4468" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4470" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4472" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4474" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4476" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4498" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4500" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4506" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4508" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4510" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4512" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4518" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4520" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4526" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4528" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4546" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4548" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4550" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4552" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4578" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4580" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4590" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4592" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4614" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4616" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4618" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4620" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4638" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4640" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4642" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4644" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4646" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4648" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4650" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4652" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4658" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4660" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4662" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4664" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4686" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4688" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4690" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4692" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4702" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4704" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4718" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4720" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4722" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4724" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4730" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4732" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4738" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4740" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4742" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4744" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4762" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4764" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4770" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4772" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4774" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4776" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4778" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4780" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4782" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4784" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4786" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4788" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4806" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4808" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4818" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4820" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4826" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4828" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4830" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4832" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4838" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4840" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4858" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4860" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4874" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4876" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4894" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4896" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4902" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4904" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4906" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4908" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4910" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4912" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4914" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4916" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4918" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4920" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4922" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4924" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4926" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4928" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4930" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4932" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4934" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4936" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4938" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4940" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4942" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4944" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4946" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4948" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath4950" clipPathUnits="userSpaceOnUse">
+   <rect id="rect4952" height="300" width="1.92e3" y="2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6699" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6701" height="170" width="1.92e3" y="0" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6727" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6729" height="170" width="1.92e3" y="0" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6739" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6741" height="170" width="1.92e3" y="0" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6747" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6749" height="170" width="1.92e3" y="0" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6767" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6769" height="170" width="1.92e3" y="0" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6775" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6777" height="170" width="1.92e3" y="0" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6779" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6781" height="170" width="1.92e3" y="0" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6875" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6877" height="170" width="1.92e3" y="0" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6895" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6897" height="170" width="1.92e3" y="0" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6943" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6945" height="170" width="1.92e3" y="0" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6959" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6961" height="170" width="1.92e3" y="0" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6975" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6977" height="170" width="1.92e3" y="0" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6985" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6987" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6989" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6991" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6993" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6995" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath6997" clipPathUnits="userSpaceOnUse">
+   <rect id="rect6999" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7001" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7003" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7005" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7007" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7009" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7011" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7013" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7015" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7017" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7019" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7021" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7023" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7025" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7027" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7029" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7031" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7033" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7035" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7037" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7039" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7041" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7043" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7045" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7047" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7049" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7051" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7053" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7055" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7057" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7059" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7061" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7063" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7065" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7067" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7069" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7071" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7073" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7075" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7077" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7079" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7081" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7083" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7085" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7087" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7089" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7091" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7093" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7095" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7097" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7099" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7101" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7103" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7105" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7107" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7109" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7111" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7113" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7115" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7117" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7119" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7121" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7123" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7125" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7127" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7129" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7131" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7133" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7135" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7137" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7139" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7141" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7143" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7145" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7147" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7149" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7151" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7153" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7155" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7157" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7159" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7161" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7163" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7165" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7167" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7169" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7171" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7173" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7175" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7177" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7179" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7181" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7183" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7185" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7187" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7189" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7191" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7193" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7195" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7197" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7199" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7201" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7203" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7205" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7207" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7209" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7211" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7213" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7215" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7217" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7219" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+  <clipPath id="clipPath7221" clipPathUnits="userSpaceOnUse">
+   <rect id="rect7223" height="170" width="1.6e3" y="-2.84e-14" x="0" fill="#ff2a2a"/>
+  </clipPath>
+ </defs>
+ <g stroke-width="1.51">
+  <path id="path4" d="m1.02e3 546-261 8 520-3z" clip-path="url(#clipPath4950)" transform="translate(105 -875)" stroke="#320c4c" fill="#320c4c"/>
+  <path id="path6" d="m382-231 577 33 570-57z" clip-path="url(#clipPath4946)" transform="translate(105 -875)" stroke="#30094a" fill="#30094a"/>
+  <path id="path8" d="m1.81e3 425-270 115 410-130z" clip-path="url(#clipPath4942)" transform="translate(105 -875)" stroke="#4b2565" fill="#4b2565"/>
+  <path id="path10" d="m2.06e3 86-41 5 134 208z" clip-path="url(#clipPath4938)" transform="translate(105 -875)" stroke="#350f4f" fill="#350f4f"/>
+  <path id="path12" d="m1.95e3 410-410 130 620-113z" clip-path="url(#clipPath4934)" transform="translate(105 -875)" stroke="#492262" fill="#492262"/>
+  <path id="path14" d="m1.95e3 -168 110 254 110-30z" clip-path="url(#clipPath4930)" transform="translate(105 -875)" stroke="#3a1454" fill="#3a1454"/>
+  <path id="path16" d="m2.06e3 86 93 213 9-243z" clip-path="url(#clipPath4926)" transform="translate(105 -875)" stroke="#340e4e" fill="#340e4e"/>
+  <path id="path18" d="m2.16e3 299v128l9-371z" clip-path="url(#clipPath4922)" transform="translate(105 -875)" stroke="#2b0845" fill="#2b0845"/>
+  <path id="path20" d="m1.53e3 -255 336 29 317 8z" clip-path="url(#clipPath4918)" transform="translate(105 -875)" stroke="#3d1657" fill="#3d1657"/>
+  <path id="path22" d="m1.86e3 -226 89 58 228-50z" clip-path="url(#clipPath4914)" transform="translate(105 -875)" stroke="#371051" fill="#371051"/>
+  <path id="path24" d="m1.95e3 -168 212 224 16-274z" clip-path="url(#clipPath4910)" transform="translate(105 -875)" stroke="#310a4b" fill="#310a4b"/>
+  <path id="path26" d="m2.17e3 56-9 371 25-645z" clip-path="url(#clipPath4906)" transform="translate(105 -875)" stroke="#350f4f" fill="#350f4f"/>
+  <path id="path28" d="m1.95e3 -168 69 259 41-5z" clip-path="url(#clipPath4902)" transform="translate(105 -875)" stroke="#3d1757" fill="#3d1757"/>
+  <path id="path32" d="m2.16e3 299-209 111 209 17z" clip-path="url(#clipPath4894)" transform="translate(105 -875)" stroke="#3c1756" fill="#3c1756"/>
+  <path id="path42" d="m-166-135 359-47 189-49z" clip-path="url(#clipPath4874)" transform="translate(105 -875)" stroke="#2a0344" fill="#2a0344"/>
+  <path id="path50" d="m1.53e3 -255 64 77 272-48z" clip-path="url(#clipPath4858)" transform="translate(105 -875)" stroke="#381252" fill="#381252"/>
+  <path id="path60" d="m1.59e3 -178 77 159 195-207z" clip-path="url(#clipPath4838)" transform="translate(105 -875)" stroke="#371251" fill="#371251"/>
+  <path id="path64" d="m959-198 356 26 214-83z" clip-path="url(#clipPath4830)" transform="translate(105 -875)" stroke="#280542" fill="#280542"/>
+  <path id="path66" d="m1.7e3 370-160 170 270-115z" clip-path="url(#clipPath4826)" transform="translate(105 -875)" stroke="#472261" fill="#472261"/>
+  <path id="path70" d="m1.74e3 329-42 41 108 55z" clip-path="url(#clipPath4818)" transform="translate(105 -875)" stroke="#441f5e" fill="#441f5e"/>
+  <path id="path76" d="m1.53e3 346 13 194 157-170z" clip-path="url(#clipPath4806)" transform="translate(105 -875)" stroke="#431e5d" fill="#431e5d"/>
+  <path id="path86" d="m1.59e3 -178-132 164 209-5z" clip-path="url(#clipPath4786)" transform="translate(105 -875)" stroke="#330e4d" fill="#330e4d"/>
+  <path id="path88" d="m382-231 226 59 351-26z" clip-path="url(#clipPath4782)" transform="translate(105 -875)" stroke="#330d4d" fill="#330d4d"/>
+  <path id="path90" d="m1.53e3 346-125 136 138 58z" clip-path="url(#clipPath4778)" transform="translate(105 -875)" stroke="#3a1754" fill="#3a1754"/>
+  <path id="path92" d="m1.53e3 -255-68 241 132-164z" clip-path="url(#clipPath4774)" transform="translate(105 -875)" stroke="#2d0847" fill="#2d0847"/>
+  <path id="path94" d="m1.32e3 -172 146 158 68-241z" clip-path="url(#clipPath4770)" transform="translate(105 -875)" stroke="#280541" fill="#280541"/>
+  <path id="path98" d="m1.4e3 482-129 69 267-11z" clip-path="url(#clipPath4762)" transform="translate(105 -875)" stroke="#2d0c48" fill="#2d0c48"/>
+  <path id="path108" d="m608-172 108 12 243-38z" clip-path="url(#clipPath4742)" transform="translate(105 -875)" stroke="#310a4b" fill="#310a4b"/>
+  <path id="path110" d="m1.15e3 515-138 31 259 5z" clip-path="url(#clipPath4738)" transform="translate(105 -875)" stroke="#2f0b4a" fill="#2f0b4a"/>
+  <path id="path114" d="m1.18e3 310 97 241 129-69z" clip-path="url(#clipPath4730)" transform="translate(105 -875)" stroke="#361350" fill="#361350"/>
+  <path id="path118" d="m1.18e3 310-24 205 121 36z" clip-path="url(#clipPath4722)" transform="translate(105 -875)" stroke="#371351" fill="#371351"/>
+  <path id="path120" d="m959-198 140 99 216-73z" clip-path="url(#clipPath4718)" transform="translate(105 -875)" stroke="#2a0544" fill="#2a0544"/>
+  <path id="path128" d="m1.1e3 -99 95 50 121-123z" clip-path="url(#clipPath4702)" transform="translate(105 -875)" stroke="#280442" fill="#280442"/>
+  <path id="path134" d="m955 336 61 210 138-31z" clip-path="url(#clipPath4690)" transform="translate(105 -875)" stroke="#3a1554" fill="#3a1554"/>
+  <path id="path136" d="m955 336 199 179 24-205z" clip-path="url(#clipPath4686)" transform="translate(105 -875)" stroke="#361350" fill="#361350"/>
+  <path id="path148" d="m382-231 28 14 198 45z" clip-path="url(#clipPath4662)" transform="translate(105 -875)" stroke="#330b4d" fill="#330b4d"/>
+  <path id="path150" d="m959-198v155l140-56z" clip-path="url(#clipPath4658)" transform="translate(105 -875)" stroke="#2d0647" fill="#2d0647"/>
+  <path id="path154" d="m955 336-200 218 261-8z" clip-path="url(#clipPath4650)" transform="translate(105 -875)" stroke="#3b1555" fill="#3b1555"/>
+  <path id="path156" d="m357 478-146 49 544 27z" clip-path="url(#clipPath4646)" transform="translate(105 -875)" stroke="#391353" fill="#391353"/>
+  <path id="path158" d="m870 303-115 251 200-218z" clip-path="url(#clipPath4642)" transform="translate(105 -875)" stroke="#3d1857" fill="#3d1857"/>
+  <path id="path160" d="m716-160 243 117v-155z" clip-path="url(#clipPath4638)" transform="translate(105 -875)" stroke="#2f0648" fill="#2f0648"/>
+  <path id="path170" d="m676 441 79 113 115-251z" clip-path="url(#clipPath4618)" transform="translate(105 -875)" stroke="#421c5c" fill="#421c5c"/>
+  <path id="path172" d="m700 313-24 128 194-138z" clip-path="url(#clipPath4614)" transform="translate(105 -875)" stroke="#361250" fill="#361250"/>
+  <path id="path184" d="m676 441-319 37 398 76z" clip-path="url(#clipPath4590)" transform="translate(105 -875)" stroke="#3e1858" fill="#3e1858"/>
+  <path id="path190" d="m403 415-46 63 319-37z" clip-path="url(#clipPath4578)" transform="translate(105 -875)" stroke="#421c5c" fill="#421c5c"/>
+  <path id="path204" d="m410-217 17 171 181-126z" clip-path="url(#clipPath4550)" transform="translate(105 -875)" stroke="#31094b" fill="#31094b"/>
+  <path id="path206" d="m-62 453-143 8 416 66z" clip-path="url(#clipPath4546)" transform="translate(105 -875)" stroke="#381152" fill="#381152"/>
+  <path id="path216" d="m382-231-189 49 234 136z" clip-path="url(#clipPath4526)" transform="translate(105 -875)" stroke="#2e0648" fill="#2e0648"/>
+  <path id="path220" d="m410-217-28-14 45 185z" clip-path="url(#clipPath4518)" transform="translate(105 -875)" stroke="#30084a" fill="#30084a"/>
+  <path id="path224" d="m278 350 79 128 46-63z" clip-path="url(#clipPath4510)" transform="translate(105 -875)" stroke="#3f1859" fill="#3f1859"/>
+  <path id="path226" d="m278 350-67 177 146-49z" clip-path="url(#clipPath4506)" transform="translate(105 -875)" stroke="#3c1556" fill="#3c1556"/>
+  <path id="path230" d="m119 329 92 198 67-177z" clip-path="url(#clipPath4498)" transform="translate(105 -875)" stroke="#391353" fill="#391353"/>
+  <path id="path242" d="m-98-103 125 25 166-104z" clip-path="url(#clipPath4474)" transform="translate(105 -875)" stroke="#2a0243" fill="#2a0243"/>
+  <path id="path244" d="m-166-135 68 32 291-79z" clip-path="url(#clipPath4470)" transform="translate(105 -875)" stroke="#2a0344" fill="#2a0344"/>
+  <path id="path246" d="m119 329-181 124 273 74z" clip-path="url(#clipPath4466)" transform="translate(105 -875)" stroke="#3b1555" fill="#3b1555"/>
+  <path id="path248" d="m27-78 71 17 95-121z" clip-path="url(#clipPath4462)" transform="translate(105 -875)" stroke="#2a0244" fill="#2a0244"/>
+  <path id="path260" d="m-98-103-37 41 162-16z" clip-path="url(#clipPath4438)" transform="translate(105 -875)" stroke="#2d0547" fill="#2d0547"/>
+  <path id="path262" d="m-254 352 192 101 48-212z" clip-path="url(#clipPath4434)" transform="translate(105 -875)" stroke="#310c4b" fill="#310c4b"/>
+  <path id="path264" d="m-81 133-173 219 240-111z" clip-path="url(#clipPath4430)" transform="translate(105 -875)" stroke="#290543" fill="#290543"/>
+  <path id="path266" d="m-221 88-33 264 173-219z" clip-path="url(#clipPath4426)" transform="translate(105 -875)" stroke="#2e0848" fill="#2e0848"/>
+  <path id="path268" d="m-135-62-86 150 140 45z" clip-path="url(#clipPath4422)" transform="translate(105 -875)" stroke="#340d4e" fill="#340d4e"/>
+  <path id="path270" d="m-254 352 49 109 143-8z" clip-path="url(#clipPath4418)" transform="translate(105 -875)" stroke="#3f1859" fill="#3f1859"/>
+  <path id="path272" d="m-166-135 31 73 37-41z" clip-path="url(#clipPath4414)" transform="translate(105 -875)" stroke="#2d0547" fill="#2d0547"/>
+  <path id="path274" d="m-166-135-55 223 86-150z" clip-path="url(#clipPath4410)" transform="translate(105 -875)" stroke="#320a4c" fill="#320a4c"/>
+  <path id="path4973" d="m2.02e3 91-124 193 258 15z" clip-path="url(#clipPath7221)" stroke="#320e4c" fill="#320e4c"/>
+  <path id="path4975" d="m1.9e3 284 49 126 209-111z" clip-path="url(#clipPath6975)" stroke="#361350" fill="#361350"/>
+  <path id="path4977" d="m1.84e3 12 37 54 78-234z" clip-path="url(#clipPath7217)" stroke="#3f1859" fill="#3f1859"/>
+  <path id="path4979" d="m1.95e3 -168-78 234 147 25z" clip-path="url(#clipPath7213)" stroke="#3f1859" fill="#3f1859"/>
+  <path id="path4981" d="m1.88e3 66 23 218 124-193z" clip-path="url(#clipPath7209)" stroke="#3b1555" fill="#3b1555"/>
+  <path id="path4983" d="m1.9e3 284-92 141 141-15z" clip-path="url(#clipPath6959)" stroke="#421d5c" fill="#421d5c"/>
+  <path id="path4985" d="m1.86e3 -226-26 238 115-180z" clip-path="url(#clipPath7205)" stroke="#381152" fill="#381152"/>
+  <path id="path4987" d="m1.88e3 66-170 56 193 162z" clip-path="url(#clipPath7201)" stroke="#3f1859" fill="#3f1859"/>
+  <path id="path4989" d="m1.67e3 -19 169 31 26-238z" clip-path="url(#clipPath7197)" stroke="#3f1959" fill="#3f1959"/>
+  <path id="path4991" d="m1.74e3 329 66 96 92-141z" clip-path="url(#clipPath6943)" stroke="#401c5a" fill="#401c5a"/>
+  <path id="path4993" d="m1.71e3 122 35 207 158-45z" clip-path="url(#clipPath7193)" stroke="#3a1654" fill="#3a1654"/>
+  <path id="path4995" d="m1.71e3 122-25 22 60 185z" clip-path="url(#clipPath7189)" stroke="#381452" fill="#381452"/>
+  <path id="path4997" d="m1.84e3 12-130 110 170-56z" clip-path="url(#clipPath7185)" stroke="#431c5d" fill="#431c5d"/>
+  <path id="path4999" d="m1.67e3 -19 36 141 133-110z" clip-path="url(#clipPath7181)" stroke="#421c5c" fill="#421c5c"/>
+  <path id="path5001" d="m1.68e3 144-152 202 170 24z" clip-path="url(#clipPath7177)" stroke="#2d0d47" fill="#2d0d47"/>
+  <path id="path5003" d="m1.68e3 144 18 226 42-41z" clip-path="url(#clipPath7173)" stroke="#32114c" fill="#32114c"/>
+  <path id="path5005" d="m1.67e3 -19 11 163 25-22z" clip-path="url(#clipPath7169)" stroke="#3d1857" fill="#3d1857"/>
+  <path id="path5007" d="m1.67e3 -19-209 5 220 158z" clip-path="url(#clipPath7165)" stroke="#3a1554" fill="#3a1554"/>
+  <path id="path5009" d="m1.39e3 139 135 207 152-202z" clip-path="url(#clipPath7161)" stroke="#2d0b47" fill="#2d0b47"/>
+  <path id="path5011" d="m1.46e3 -14-67 153 287 5z" clip-path="url(#clipPath7157)" stroke="#320f4c" fill="#320f4c"/>
+  <path id="path5013" d="m1.39e3 139-125 100 260 107z" clip-path="url(#clipPath7153)" stroke="#22043d" fill="#22043d"/>
+  <path id="path5015" d="m1.27e3 239 135 243 125-136z" clip-path="url(#clipPath6895)" stroke="#2b0b45" fill="#2b0b45"/>
+  <path id="path5017" d="m1.32e3 116 71 23 67-153z" clip-path="url(#clipPath7149)" stroke="#2b0945" fill="#2b0945"/>
+  <path id="path5019" d="m1.27e3 9 56 107 138-130z" clip-path="url(#clipPath7145)" stroke="#2c0a46" fill="#2c0a46"/>
+  <path id="path5021" d="m1.32e3 -172-50 181 190-23z" clip-path="url(#clipPath7141)" stroke="#280642" fill="#280642"/>
+  <path id="path5023" d="m1.32e3 116-54 123 125-100z" clip-path="url(#clipPath7137)" stroke="#280642" fill="#280642"/>
+  <path id="path5025" d="m1.27e3 239-91 71 226 172z" clip-path="url(#clipPath6875)" stroke="#2a0a44" fill="#2a0a44"/>
+  <path id="path5027" d="m1.19e3 -49 73 58 48-181z" clip-path="url(#clipPath7133)" stroke="#290643" fill="#290643"/>
+  <path id="path5029" d="m1.18e3 82 89 157 54-123z" clip-path="url(#clipPath7129)" stroke="#2a0744" fill="#2a0744"/>
+  <path id="path5031" d="m1.27e3 9-87 73 143 34z" clip-path="url(#clipPath7125)" stroke="#2d0a47" fill="#2d0a47"/>
+  <path id="path5033" d="m1.18e3 82-2 228 91-71z" clip-path="url(#clipPath7121)" stroke="#270541" fill="#270541"/>
+  <path id="path5035" d="m1.19e3 -49-10 131 90-73z" clip-path="url(#clipPath7117)" stroke="#300d4b" fill="#300d4b"/>
+  <path id="path5037" d="m971 137-16 199 223-26z" clip-path="url(#clipPath7113)" stroke="#270642" fill="#270642"/>
+  <path id="path5039" d="m1.1e3 -99-141 56 221 125z" clip-path="url(#clipPath7109)" stroke="#310c4b" fill="#310c4b"/>
+  <path id="path5041" d="m971 137 207 173 2-228z" clip-path="url(#clipPath7105)" stroke="#2c0846" fill="#2c0846"/>
+  <path id="path5043" d="m1.1e3 -99 81 181 14-131z" clip-path="url(#clipPath7101)" stroke="#2f0b49" fill="#2f0b49"/>
+  <path id="path5045" d="m959-43 12 180 209-55z" clip-path="url(#clipPath7097)" stroke="#330e4d" fill="#330e4d"/>
+  <path id="path5047" d="m870 303 85 33 16-199z" clip-path="url(#clipPath7093)" stroke="#2a0744" fill="#2a0744"/>
+  <path id="path5049" d="m731 131 139 172 101-166z" clip-path="url(#clipPath7089)" stroke="#300b4a" fill="#300b4a"/>
+  <path id="path5051" d="m773 47-42 84 240 6z" clip-path="url(#clipPath7085)" stroke="#350e4f" fill="#350e4f"/>
+  <path id="path5053" d="m959-43-186 90 198 90z" clip-path="url(#clipPath7081)" stroke="#361050" fill="#361050"/>
+  <path id="path5055" d="m716-160 57 207 186-90z" clip-path="url(#clipPath7077)" stroke="#340d4e" fill="#340d4e"/>
+  <path id="path5057" d="m731 131-31 182 170-10z" clip-path="url(#clipPath7073)" stroke="#2d0947" fill="#2d0947"/>
+  <path id="path5059" d="m627 134 73 179 31-182z" clip-path="url(#clipPath7069)" stroke="#320d4c" fill="#320d4c"/>
+  <path id="path5061" d="m686 44 45 87 42-84z" clip-path="url(#clipPath7065)" stroke="#381152" fill="#381152"/>
+  <path id="path5063" d="m716-160-30 204 87 3z" clip-path="url(#clipPath7061)" stroke="#371151" fill="#371151"/>
+  <path id="path5065" d="m608-172 78 216 30-204z" clip-path="url(#clipPath7057)" stroke="#320b4c" fill="#320b4c"/>
+  <path id="path5067" d="m686 44-59 90 104-3z" clip-path="url(#clipPath7053)" stroke="#371151" fill="#371151"/>
+  <path id="path5069" d="m627 134-102 73 175 106z" clip-path="url(#clipPath7049)" stroke="#310c4b" fill="#310c4b"/>
+  <path id="path5071" d="m608-172-181 126 259 90z" clip-path="url(#clipPath7045)" stroke="#360f50" fill="#360f50"/>
+  <path id="path5073" d="m525 207 151 234 24-128z" clip-path="url(#clipPath6779)" stroke="#310e4b" fill="#310e4b"/>
+  <path id="path5075" d="m525 207-122 208 273 26z" clip-path="url(#clipPath6775)" stroke="#381452" fill="#381452"/>
+  <path id="path5077" d="m427-46 200 180 59-90z" clip-path="url(#clipPath7041)" stroke="#3a1454" fill="#3a1454"/>
+  <path id="path5079" d="m405 250-2 165 122-208z" clip-path="url(#clipPath6767)" stroke="#2b0845" fill="#2b0845"/>
+  <path id="path5081" d="m427-46 98 253 102-73z" clip-path="url(#clipPath7037)" stroke="#381252" fill="#381252"/>
+  <path id="path5083" d="m293 196 112 54 22-296z" clip-path="url(#clipPath7033)" stroke="#330c4d" fill="#330c4d"/>
+  <path id="path5085" d="m268 40 25 156 134-242z" clip-path="url(#clipPath7029)" stroke="#340e4e" fill="#340e4e"/>
+  <path id="path5087" d="m427-46-22 296 120-43z" clip-path="url(#clipPath7025)" stroke="#350e4f" fill="#350e4f"/>
+  <path id="path5089" d="m278 350 125 65 2-165z" clip-path="url(#clipPath6747)" stroke="#320d4b" fill="#320d4b"/>
+  <path id="path5091" d="m193-182 75 222 159-86z" clip-path="url(#clipPath7021)" stroke="#30084a" fill="#30084a"/>
+  <path id="path5093" d="m293 196-15 154 127-100z" clip-path="url(#clipPath6739)" stroke="#290643" fill="#290643"/>
+  <path id="path5095" d="m193-182-95 121 170 101z" clip-path="url(#clipPath7017)" stroke="#2d0547" fill="#2d0547"/>
+  <path id="path5097" d="m268 40-158 59 183 97z" clip-path="url(#clipPath7013)" stroke="#30094a" fill="#30094a"/>
+  <path id="path5099" d="m119 329 159 21 15-154z" clip-path="url(#clipPath6727)" stroke="#260440" fill="#260440"/>
+  <path id="path5101" d="m110 99 9 230 174-133z" clip-path="url(#clipPath7009)" stroke="#2a0444" fill="#2a0444"/>
+  <path id="path5103" d="m98-61 12 160 158-59z" clip-path="url(#clipPath7005)" stroke="#320a4c" fill="#320a4c"/>
+  <path id="path5105" d="m110 99-124 142 133 88z" clip-path="url(#clipPath7001)" stroke="#290442" fill="#290442"/>
+  <path id="path5107" d="m98-61-71-17 83 177z" clip-path="url(#clipPath6997)" stroke="#30094a" fill="#30094a"/>
+  <path id="path5109" d="m27-78-108 211 191-34z" clip-path="url(#clipPath6993)" stroke="#320a4c" fill="#320a4c"/>
+  <path id="path5111" d="m-81 133 67 108 124-142z" clip-path="url(#clipPath6989)" stroke="#2e0748" fill="#2e0748"/>
+  <path id="path5113" d="m-14 241-48 212 181-124z" clip-path="url(#clipPath6699)" stroke="#2e0948" fill="#2e0948"/>
+  <path id="path5115" d="m-135-62 54 195 108-211z" clip-path="url(#clipPath6985)" stroke="#330c4d" fill="#330c4d"/>
+ </g>
+</svg>
