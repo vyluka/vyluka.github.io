@@ -1,40 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>Výluka</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Feb 2017 21:04:46 +0100</pubDate>
-    <lastBuildDate>Tue, 21 Feb 2017 21:04:46 +0100</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 08 Mar 2017 00:14:16 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Mar 2017 00:14:16 +0100</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Přichystali jsme výluky na letní semestr, třikrát sláva!</title>
+        <description>&lt;p class=&quot;post__p&quot;&gt;
+  S radostí dáváme na vědomí, že v průběhu února se budete moci přihlašovat na výluky v letním semestru. Co to všechno obnáší?
+&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p class=&quot;post__p&quot;&gt;
+  Pokud toho o Výluce moc nevíš a nejsi si ještě úplně jistý/jistá, že chceš svěřit svůj život do našich rukou, zastav se 23. ledna v 17:00 ve Standard Café na informační schůzce, kde ti odpovíme na všechny tvoje zvědavé, praktické i kritické dotazy.
+&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p class=&quot;post__p&quot;&gt;
+  Pokud tě přesvědčíme o tom, že jsme ti správní sparing partneři pro tuhle životní zkušenost, tak se nám mezi 1. a 28. únorem přihlásíš tady: &lt;a href= title=&quot;Přihláška&quot; href=&quot;/prihlaska&quot;&gt;www.vyluka.org/prihlaka&lt;/a&gt;
+&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h2&gt;Co se stane, když se přihlásíš?&lt;/h2&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;post__p&quot;&gt;
+  2. března přijdeš na schůzku upsaných duší, která bude stejně jako ta informační od 17:00 ve Standardu, aby se nám to líp pamatovalo. Tam si od vás vybereme pět set korun zálohy, o které si na konci sám/sama rozhodneš, jestli nám ji necháš, nebo si ji vezmeš zpátky. Podle toho jak se ti s námi bude líbit. Taky si vás tady rozdělíme do týmů, ve kterých budete spolupracovat, a hlavně, ve kterých pojedete na výluku.
+&lt;/p&gt;
 
+&lt;p class=&quot;post__p&quot;&gt;
+  10.–12. března pak pojedeme všichni společně na víkendovku, kde spolu strávíme čas, abychom se poznali nejen mezi sebou, a to i v rámci výlukových týmů, ale abyste taky přemýšleli nad tím, jak jste vlastně na takovou zkušenost připravení. Co od ní čekáte, čeho se bojíte, co si od ní slibujete.
+&lt;/p&gt;
+
+&lt;p class=&quot;post__p&quot;&gt;
+  V mezičase mezi víkendovkou a výlukou pak čtete odbornou literaturu, o které jsme si povídali na víkendovce, konzultujete s odborníky a navštěvujete hodiny, abyste měli i nějakou teoretickou přípravu.
+&lt;/p&gt;
+
+&lt;p class=&quot;post__p&quot;&gt;
+  Pak už se jenom domluvíme na pro vás a naše výlukové školy nejvhodnějším dubnovém týdnu, ve kterém pojedete v týmu několika lidí a s jedním z nás na výluku!
+&lt;/p&gt;
+
+&lt;h2&gt;K čemu ti to celé vlastně bude?&lt;/h2&gt;
+
+&lt;p class=&quot;post__p&quot;&gt;
+  Po absolvování výluky bys měl/a mít jasněji v tom, jestli by tě učitelství opravdu bavilo a jestli by sis chtěl/a doplnit chybějící vzdělání k tomu, abys ho mohl/a dělat. Výluka s tebou ráda zůstane v kontaktu a vynasnaží se ti pomoct s rozhodováním o tom, co s tvým pedagogickým nadšením dál.
+&lt;/p&gt;
+&lt;img class=&quot;post__image&quot; src=&quot;/assets/kalendar1.jpg&quot;/&gt;
 </description>
-        <pubDate>Sun, 22 Jan 2017 09:19:20 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2017/01/22/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2017/01/22/welcome-to-jekyll.html</guid>
+        <pubDate>Wed, 18 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/01/18/Vyluka-letni-semestr.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/18/Vyluka-letni-semestr.html</guid>
         
         
-        <category>jekyll</category>
+      </item>
+    
+      <item>
+        <title>Eduína?!</title>
+        <description>&lt;p class=&quot;post__p&quot;&gt;
+  Rok 2016 je pro projekt Výluka opravdu přelomovým. Založili jsme spolek, ustálil se nám organizační tým, připravujeme první týmy na výluky a trochu o sobě dáváme vědět. Popostrčeni od samotného EDUinu jsme projekt nominovali na cenu Eduína 2016 zaměřené na ocenění inovativních projektů ve vzdělávání. Spolu s námi bylo nominováno dalších osmaosmdesát projektů, z nichž odborná porota vybrala devět finalistů. Když jsme mezi finalisty viděli Výluku, pochopili jsme, že v tomto bodě končí legrace. Doposud jsme vše dělali jen tak sami na koleně a řídili se hlavně vlastní intuicí a doporučeními od spřízněných projektů a kamarádů. Ale co teď? Všimla si nás i odborná veřejnost a vypadá to, že se jim náš projekt dokonce líbí! Panika!
+&lt;/p&gt;
+
+&lt;img class=&quot;post__image&quot; src=&quot;/assets/eduina1.jpg&quot;/&gt;
+  &lt;span class=&quot;post__img-desc&quot;&gt;
+    Zkusíme to! zdroj: &lt;a href=&quot;&quot; class=&quot;post__links&quot;&gt;fb Výluka&lt;/a&gt;
+  &lt;/span&gt;
+
+&lt;p class=&quot;post__p&quot;&gt;
+  S těmito pocity jsme ve složení Aneta K., Dominik, Sandra a Jana vyrazili 1. prosince 2016 na slavnostní vyhlášení letošní Eduíny. V seznamu hostů jsme zahlédli jména profesora Sokola a dalších pro vzdělávání významných osobností, a i proto jsme si sedli co nejvíce dozadu. Jsme přece zatím jen taková “děťátka”, můžeme se vůbec srovnávat s projekty vedenými například Masarykovou univerzitou či DOXem? Došlo na vyhlašování Cen veřejnosti, samozřejmě, že jsme trochu doufali, že se umístíme alespoň na třetím místě. To však získal Science Slam, čímž naše naděje vesměs opadly. Druhé místo obsadila Badatelna, takže naše poslední šance byly pryč.
+&lt;/p&gt;
+
+&lt;p class=&quot;post__p&quot;&gt;
+  A pak došlo na lámání chleba. První místo? Moderátor říká něco jako projekt Výluka spolku Výluka! Cože? Panika č. 2! Dominik a Aneta byli naštěstí pohotoví a ihned vyrazili pro cenu. Jana a Sandra se pomalu trousily za nimi. Další dění bylo trochu v mlze – děkujeme, čekáme na vyhlášení cen odborné poroty a osobnosti vstupující do auly slávy. S půlhodinovým zpožděním nám všem došlo, co se vlastně stalo a co to pro nás znamená. Myšlenka, kterou v sobě nosíme už skoro dva roky, které jsme postupně dávali pevnější obrysy a cíle, byla v takové míře oceněna veřejností. Z úvah nad budoucností nás naštěstí vytrhl konec oficiálního ceremoniálu následovaný sdílením zkušeností s dalšími projekty a lidmi.
+&lt;/p&gt;
+
+&lt;img class=&quot;post__image&quot; src=&quot;/assets/eduina2.jpg&quot;/&gt;
+  &lt;span class=&quot;post__img-desc&quot;&gt;
+    Můžu se zeptat? Vy jste to opravdu nečekali, že?” zdroj: EDUin
+  &lt;/span&gt;
+
+&lt;p class=&quot;post__p&quot;&gt;
+  Chceme poděkovat všem, kteří nám pomáhají, dávají nám tipy, učí nás učit a stále to s námi nevzdali. Ocenění nám všem dodalo velkou motivaci pokračovat dál a zkusit se z kolena posunout k systematičtější práci, a udělat tak z nadšeneckého projektu pár přátel projekt dlouhodobý a trvale udržitelný. Jinými slovy ukázat, že za toto ocenění Výluka opravdu stojí.
+&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Dec 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/12/03/Eduina.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/03/Eduina.html</guid>
         
-        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>#vyzkoušenozavás</title>
+        <description>&lt;p class=&quot;post__p&quot;&gt;
+  Na pilotní výjezd jsme se vydali v zakladatelské sestavě Jana, Sandra, Dominik a Vašek. Cílovou destinací byla ZŠ Poběžovice v pohraničí s Německem, oblast bývalých Sudet, tvrdý kraj. Laťku jsme se nebáli nastavit vysoko – abychom se dostatečně autenticky seznámili s každodenním chodem školy, rozhodli jsme se zůstat rovnou na týden.
+&lt;/p&gt;
+
+&lt;img class=&quot;post__image&quot; src=&quot;/assets/vyzkouseno1.jpg&quot;/&gt;
+  &lt;span class=&quot;post__img-desc&quot;&gt;
+    Dominik, Vašek, Sandra a Jana plní energie na začátku výluky aneb Těšíme se do školy.
+  &lt;/span&gt;
+
+&lt;p class=&quot;post__p&quot;&gt;
+  To se sice ve výsledku ukázalo jako rozhodnutí velmi vyčerpávající, ale zároveň plodné! Pedagogové i pedagogičtí asistenti nás postupem času přijali i jako zelenáče a neučitele mezi sebe a když velmi neočekávaná sněhová kalamita odřízla příjezdové cesty ke škole, sebevědomě jsme zaskočili jako plnohodnotná náhrada na hodinách. Ačkoliv to byla výzva, ve výsledku jsme zaznamenali úspěch.
+&lt;/p&gt;
+
+&lt;img class=&quot;post__image&quot; src=&quot;/assets/vyzkouseno2.jpg&quot;/&gt;
+  &lt;span class=&quot;post__img-desc&quot;&gt;
+    Dominik rozjel vyučování dějepisu ve velkém.
+  &lt;/span&gt;
+
+&lt;p class=&quot;post__p&quot;&gt;
+Po návratu jsme se všichni shodli na tom, že týden strávený na škole nám všem dal vážně spoustu podnětů k přemýšlení. Pro Sandru to bylo třeba téma role ředitele a jeho vlivu na pedagogický sbor, role školního psychologa nebo otázka individuálního přístupu žákům, Jana se zase od dětí dozvěděla něco o sobě, co až tak úplně netušila – prý se hodně usmívá. Dominik si z výjezdu odvezl poučku o tom, že jak to vypadá ve sborovně, tak to pak vypadá i ve třídě, a i školní výuka je z dost velké míry ovlivněna mezilidskými vztahy v rámci pedagogického sboru.
+&lt;/p&gt;
+
+&lt;p class=&quot;post__p&quot;&gt;
+Důležité je zmínit, že krom role pedagoga jsme si zkusili taky roli pedagogického asistenta. Základka v Poběžovicích je totiž školou aplikující v praxi inkluzivní přístup a v třicetičlenné třídě jsme se setkali klidně s devíti žáky, kteří měli svůj individuální studijní plán. Díky výjezdu jsme se tedy mohli za chodu setkat s tímto medializovaným strašákem a udělat si na něj vlastní názor.
+&lt;/p&gt;
+
+&lt;img class=&quot;post__image&quot; src=&quot;/assets/vyzkouseno3.jpg&quot;/&gt;
+  &lt;span class=&quot;post__img-desc&quot;&gt;
+    Výlukáři těsně po skončení výluky se ZŠ Poběžovice za zády – vyčerpaní, ale přežili jsme!
+  &lt;/span&gt;
+
+&lt;p class=&quot;post__p&quot;&gt;
+Že si na Výluce vyzkoušíte, jaké učení doopravdy je, je jasná věc. Zároveň se ale můžete dozvědět nebo sami přijít na věci, které jste až tak nečekali. Ať už jde o témata na celospolečenské úrovni, která vyžadují určitý vhled do chodu věcí, anebo taky překvapivá zjištění o sobě samých.
+&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Apr 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2016/04/23/vyzkouseno.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/04/23/vyzkouseno.html</guid>
+        
         
       </item>
     
