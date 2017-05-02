@@ -344,7 +344,6 @@ body {
   @extend .container;
   padding: 35px 25px;
   &__inner {
-    display: inline-block;
     max-width: 684px;
   }
   &__heading {
