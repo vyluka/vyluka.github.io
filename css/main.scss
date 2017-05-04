@@ -134,7 +134,7 @@ body {
       width: 183px;
       height: 96px;
       stroke: $white;
-      stroke-width: 5px;
+      stroke-width: 50px;
       fill: $white;
       &:hover {
         stroke: $blue;
@@ -384,7 +384,7 @@ body {
     );
     border-left: .375em solid lighten(desaturate($blue,10%),15%);
     border-radius: 1px;
-    @include box-shadow(0 1px 1px 0 rgba(0, 0, 0, .3));
+    @include box-shadow(1px 2px 1px 0 rgba(0, 0, 0, .2));
   }
 }
 .def-Výluka {
@@ -420,7 +420,7 @@ body {
     lighten(desaturate($purple,60%),79%) 100%
     );
     border-radius: 1px;
-    @include box-shadow(0 1px 1px 0 rgba(0, 0, 0, .3));
+    @include box-shadow(1px 2px 1px 0 rgba(0, 0, 0, .2));
   }
   &__container {
     display: inline-block;
