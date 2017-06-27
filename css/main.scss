@@ -214,6 +214,7 @@ body {
 }
 
 .fp-intro {
+  background: $white;
   &__image {
     display: block;
     height: 158px;
@@ -332,6 +333,7 @@ body {
     margin: 0 30px 0 0;
     display: inline-block;
     max-width: 100%;
+    height: auto;
   }
   &__description {
     &__heading {
@@ -496,12 +498,38 @@ body {
     max-width: 525px;
     @include box-sizing(border-box);
     margin: 0 auto;
+    padding: 35px 0;
+  }
+  &__heading {
+    color: $white;
+    font-weight: 600;
+    display: block;
+    font-size: .875em;
+    margin-bottom: 5px;
+  }
+  &__links {
+    display: inline-block;
+    margin: 5px 10px;
+    &_svg {
+      fill: $white;
+      stroke: $white;
+      stroke-width: 0;
+      @include transition(all .2s)
+      &:hover {
+        fill: $pink;
+        stroke: $pink;
+        stroke-width: 0;
+      }
+    }
+  }
+  &__shapes-container {
+    margin-top: 50px;
   }
   &__shapes {
     width: 36px;
     height: 36px;
+    margin: 0px 3px 0;
     stroke-width: 250px;
-    margin: 45px 5px 25px;
     &_yellow {
       fill: $yellow;
       stroke: $yellow;
@@ -515,26 +543,12 @@ body {
       stroke: $blue;
     }
   }
-  &__heading {
-    color: $white;
-    font-weight: 600;
-    display: block;
-    font-size: .875em;
-    margin: 0 10px;
-  }
-  &__links {
-    display: inline-block;
-    margin: 10px;
-    &_svg {
-      fill: $white;
-      stroke: $white;
-      stroke-width: 0;
-      @include transition(all .2s)
-      &:hover {
-        fill: $pink;
-        stroke: $pink;
-        stroke-width: 0;
-      }
+  &__copyright {
+    margin-top: -10px;
+    font-size: 0.75em;
+    color: lighten(desaturate($purple,50%),50%);
+    &_link {
+      color: inherit;
     }
   }
 }
@@ -645,6 +659,12 @@ body {
   	color: $pink;
   }
   .header {
+    width: 100%;
+    position:fixed;
+  	top:0;
+    left: 0;
+    z-index: 1;
+    border-bottom: 1px solid lighten(desaturate($purple,50%),10%);
     &__site-logo {
       display: inline-block;
       margin: 20px auto 2px;
@@ -773,7 +793,9 @@ body {
   .nav-menu {
     display: none;
   }
-
+  .fp-intro {
+    margin-top: 96px;
+  }
   .fp-features {
     padding: 20px 0;
     &__box {
@@ -790,6 +812,7 @@ body {
     }
   }
 }
+
 @include media-query($s) {
   .blog__list {
     padding: 1em;
